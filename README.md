@@ -1,12 +1,15 @@
 # Mental Health Trends Among Students Analysis
-**Note:** This repository is an updated personal copy of a group report completed from February to March 2023. For the original repository and full project history, please visit: https://github.com/info-201a-sp22/final-project-BadaLee2000
+**Note:** 
+This repository contains only the README file as a showcase of the project.
+
+To view the interactive website for this project, please visit: [Mental Health Trends Among Students Analysis](https://badalee.shinyapps.io/final-project-BadaLee2000/)
+
+For the original repository and more detailed information, please see: [Original Repository](https://github.com/info-201a-sp22/final-project-BadaLee2000)
 
 ---
 
-Authors
 Jason Cabusao, Jamie Kim, Bada Lee, and Tamia Ouch
 
-Date
 March 9, 2023 (Winter 2023)
 
 ## Abstract
